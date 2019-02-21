@@ -6,13 +6,13 @@
 
     <!--Components-->
     <string name="s_txt_juhi">Juhi Kaushik</string>
-    <string name="s_txt_rishabh">Rishabh Mistry</string>
+    <string name="s_txt_rishabh">Rishi Mistry</string>
     <string name="s_txt_pratik">Pratik Makwana</string>
     <string name="s_txt_parashar">Parashar Dhamecha</string>
     <string name="s_txt_urvish">Urvish Xyz</string>
 
     <string name="s_btn_juhi">Hi Juhi</string>
-    <string name="s_btn_rishabh">Hi Rishabh</string>
+    <string name="s_btn_rishabh">Hi Rishi</string>
     <string name="s_btn_pratik">Hi Pratik</string>
     <string name="s_btn_parashar">Hi Parashar</string>
     <string name="s_btn_urvish">Urvish Xyz</string>
