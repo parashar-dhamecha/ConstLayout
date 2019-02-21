@@ -6,8 +6,13 @@
 
     <!--Components-->
     <string name="s_txt_juhi">Juhi Kaushik</string>
+
     <string name="s_txt_rishabh">Rishi Mistry</string>
-    <string name="s_txt_pratik">Pratik Makwana</string>
+    <string name="s_txt_pratik">Pratik Goswami</string>
+
+    <string name="s_txt_rishabh">Rishabh Mistry</string>
+    <string name="s_txt_pratik">Pratik Goswami</string>
+
     <string name="s_txt_parashar">Parashar Dhamecha</string>
     <string name="s_txt_urvish">Urvish Xyz</string>
 
